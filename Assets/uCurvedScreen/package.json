@@ -1,0 +1,26 @@
+{
+    "name": "com.hecomi.ucurvedscreen",
+    "version": "1.0.0",
+    "displayName": "uCurvedScreen",
+    "description": "Curved-sreen shader aseets for Unity.",
+    "author": {
+        "name": "hecomi",
+        "url": "https://tips.hecomi.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hecomi/uCurvedScreen"
+    },
+    "keywords": [
+        "unity",
+        "shader"
+    ],
+    "license": "MIT License",
+    "samples": [
+        {
+            "displayName": "Samples",
+            "description": "Collection of samples for uCurvedScreen",
+            "path": "Samples~"
+        }
+    ]
+}
