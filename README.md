@@ -1,8 +1,6 @@
 uCurvedScreen
 =============
 
-![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
-
 **uCurvedScreen** is an Unity shader asset to create curved screens like the screenshot below.
 
 Screenshots
